@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on open source hardware. See [lowRISC/opentitan](https://github.com/lowRISC/opentitan), or browse my github.io 
-  website https://moidx.com.
+- 🔭 I’m currently working on open source hardware. See [lowRISC/opentitan](https://github.com/lowRISC/opentitan).
 
 <!--
 **moidx/moidx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
